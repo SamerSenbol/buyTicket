@@ -1,0 +1,17 @@
+.nice-frame{
+
+    padding: 10px;
+    text-align: center;
+    width: 400px;
+    margin: 20px auto;
+    border-radius: 10px;
+    background-color: #EEE;
+    border: 1px solid #CCC;
+    font-family: Tahoma, Arial;
+    line-height: 2;
+}
+
+.nice-frame span{
+    font-weight:bold;
+    color: red;
+}
